@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/eduardo/GitHub/Novo_OrmBenchmark/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">OrmBenchmark</string>
+    <string name="csv_was_generated">CSV file was generated at %1$s</string>
+    <string name="failed_to_generate_csv">Failed to generate CSV file: %1$s</string>
+    <string name="idle">Idle</string>
+    <string name="load_entities">Load entities</string>
+    <string name="load_entity_by_id">Load entity by id</string>
+    <string name="results">Results:</string>
+    <string name="running">Executing %1$s…</string>
+    <string name="save_entities">Save entities</string>
+    <string name="save_entities_in_transaction">Save entities in transaction</string>
+    <string name="start">Start</string>
+    <!-- From: file:/home/eduardo/GitHub/Novo_OrmBenchmark/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
